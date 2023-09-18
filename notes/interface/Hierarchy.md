@@ -16,8 +16,8 @@ Right-click to add object.
 
 ## Rename
 
-With object selected, after short delay, click object again, name becomes editable.
+With object selected, hit enter key. Or, after short delay, click object again, name becomes editable.
 
 ## Duplicate
 
-With object selected, **⌘+D**, or **Edit > Duplicate**.
+With object selected, **⌘+D**, or **Edit &rarr; Duplicate**.

@@ -6,4 +6,4 @@ File hierarchy.
 
 Right-click item to **Reveal in Finder**.
 
-Right-click empty space to Create asset (such as **C# Script**).
+Right-click empty space to create asset (such as **C# Script**).
